@@ -10,6 +10,12 @@
 Basalt is a pure C# Game Development Class Library to help make games using purely code or, in the future, it's own editor. It also integrates the Raylib_cs C# binding package for Raylib for rendering.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagomvas&repo=basalt&theme=transparent&title_color=e6e6e6&text_color=e6e6e6&icon_color=eb233b&border_color=e6e6e6)](https://github.com/thiagomvas/Basalt)
+
+- ### TMath
+TMath is a Math library with functions using generics as parameters to support all numeric types and custom ones.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagomvas&repo=tmath&theme=transparent&title_color=e6e6e6&text_color=e6e6e6&icon_color=eb233b&border_color=e6e6e6)](https://github.com/thiagomvas/TMath)
+
 ## 🌱 Learning
 - C Language
 - ASP.NET
