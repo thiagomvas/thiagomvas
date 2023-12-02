@@ -1,4 +1,5 @@
 # Hi there! I'm Thiago! 👋
+A passionate software developer and an undergraduate in computer science based in Brazil. 
 
 ## 🔧 Skills
 - **Languages:** C#, Dart, JavaScript, C, HTML/CSS
