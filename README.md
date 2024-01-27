@@ -1,4 +1,6 @@
 # Hi there! I'm Thiago! 👋
+[![wakatime](https://wakatime.com/badge/user/018c0342-7bfe-4e07-a122-cc553ed1c623.svg)](https://wakatime.com/@018c0342-7bfe-4e07-a122-cc553ed1c623)
+
 A passionate software developer and an undergraduate in computer science based in Brazil. 
 
 ## 🔧 Skills
