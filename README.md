@@ -4,8 +4,8 @@
 A passionate software developer and an undergraduate in computer science based in Brazil. 
 
 ## 🔧 Skills
-- **Languages:** C#, Dart, JavaScript, C, HTML/CSS
-- **Frameworks & Technologies:** .NET, Flutter, Unity Engine, MongoDB.
+- **Languages:** C, C#, C++, Dart, JavaScript, HTML/CSS
+- **Frameworks & Technologies:** .NET, Blazor, ASP.NET, Flutter, Unity Engine, MongoDB.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomvas&layout=compact&exclude_repo=attom,luportfolio,particlesim&hide=shaderlab,hlsl,glsl,cmake&theme=transparent&title_color=e6e6e6&text_color=e6e6e6&icon_color=eb233b&border_color=e6e6e6)
 ## 🚀 Projects
@@ -25,9 +25,7 @@ TMath is a Math library with functions using generics as parameters to support a
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagomvas&repo=tmath&theme=transparent&title_color=e6e6e6&text_color=e6e6e6&icon_color=eb233b&border_color=e6e6e6)](https://github.com/thiagomvas/TMath)
 
 ## 🌱 Learning
-- C Language
-- ASP.NET
-- Blazor
+- C++
 
 ## 🤝 Connections
 - [LinkedIn](https://www.linkedin.com/in/thiago-m-vasconcelos/)
