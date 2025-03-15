@@ -1,25 +1,8 @@
 # Hi there! I'm Thiago! 👋
-A passionate software developer and an undergraduate in computer science based in Brazil. 
+I am a dedicated and curious software developer with a strong foundation in modern technologies and a passion for building efficient, scalable solutions. I have honed my skills through extensive self-driven projects, deep technical exploration, and continuous learning.
 
-## 🔧 Skills
-- **Languages:** C, C#, C++, Dart, JavaScript, HTML/CSS
-- **Frameworks & Technologies:** .NET, Blazor, ASP.NET, Flutter, Unity Engine, MongoDB.
+> "Success is not final, failure is not fatal: It is the courage to continue that counts." - Wiston Churchill
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomvas&layout=compact&exclude_repo=attom,luportfolio,particlesim&hide=shaderlab,hlsl,glsl,cmake&theme=transparent&title_color=e6e6e6&text_color=e6e6e6&icon_color=eb233b&border_color=e6e6e6)
-## 🚀 Projects
-| Project | Description | Badges | Link |
-| ------- | ----------- | ------ | ---- |
-| **Basalt** | A pure C# Game Development Class Library designed to create games using code. Future plans include developing its own editor. It integrates the Raylib_cs C# binding package for rendering. | ![GitHub Repo stars](https://img.shields.io/github/stars/thiagomvas/tmath?style=flat) [![Version](https://img.shields.io/nuget/v/basalt)](https://www.nuget.org/packages/Basalt/) <br> **Basalt:** ![Basalt Downloads](https://img.shields.io/nuget/dt/Basalt) <br> **Basalt.Core** ![Basalt.Core Downloads](https://img.shields.io/nuget/dt/Basalt.core) <br> **Basalt.Raylib:** ![Basalt.Raylib Downloads](https://img.shields.io/nuget/dt/Basalt.Raylib) | [View Project](https://github.com/thiagomvas/Basalt) |
-| **TMath** | A mathematical C# library with functions using generics as parameters to support all numeric types and custom types. | ![GitHub Repo stars](https://img.shields.io/github/stars/thiagomvas/tmath?style=flat) [![Version](https://img.shields.io/nuget/v/tmath)](https://www.nuget.org/packages/TMath/) ![Downloads](https://img.shields.io/nuget/dt/tmath) | [View Project](https://github.com/thiagomvas/TMath) |
-| **Helium** | Helium is a light-weight markdown-based note-taking app built with C++ using Raylib. It is designed to be simple and easy to use, with high customizability. | ![GitHub Repo stars](https://img.shields.io/github/stars/thiagomvas/helium?style=flat) | [View Project](https://github.com/thiagomvas/Helium) |
-| **SharpTables** | A versatile and customizable console table formatter. Generate tables ready to be written to console with the ability to customize even the characters used by the generator to generate the table. | ![GitHub Repo stars](https://img.shields.io/github/stars/thiagomvas/SharpTables?style=flat) [![Version](https://img.shields.io/nuget/v/tmath)](https://www.nuget.org/packages/SharpTables/) ![Downloads](https://img.shields.io/nuget/dt/SharpTables) | [View Project](https://github.com/thiagomvas/SharpTables)
-| **SteamWebSharp** | SteamWebSharp is an API Wrapper for the Steam Web API where each endpoint is its own interface (e.g., `SteamApiClient.ISteamuser`), with support for automatic retry, caching, Microsoft.DependencyInjection.Abstractions.ILogger support and more  | ![GitHub Repo stars](https://img.shields.io/github/stars/thiagomvas/SteamWebSharp?style=flat) [![Version](https://img.shields.io/nuget/v/SteamWebsSharp)](https://www.nuget.org/packages/SteamWebsSharp/) | [View Project](https://github.com/thiagomvas/SteamWebSharp) |
-
-
-
-
-## 🤝 Connections
-- [LinkedIn](https://www.linkedin.com/in/thiago-m-vasconcelos/)
-
-## 📊 Statistics
-![My Stats](https://github-readme-stats.vercel.app/api?username=thiagomvas&show_icons=true&theme=transparent&title_color=e6e6e6&text_color=e6e6e6&icon_color=eb233b&border_color=e6e6e6)
+[![Resume](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](thiagomvas.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-m-vasconcelos/)
+<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
