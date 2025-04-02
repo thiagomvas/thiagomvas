@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1770" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1887" class="">
     <defs>
         <style/>
     </defs>
@@ -470,6 +470,54 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">softeam-org/landing-page</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e8b4552</div>
+                                        <div class="message">style: ESLint fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8900157</div>
+                                        <div class="message">feat: Add testimonials</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6174bc7</div>
+                                        <div class="message">feat: Add InnovationHub to partners</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3cbccc5</div>
+                                        <div class="message">fix: Fix typos and add missing value</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d232648</div>
+                                        <div class="message">fix: Footer waves now only show on landing page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a12d7d</div>
+                                        <div class="message">fix: Fix styling issues with PS page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#867107b</div>
+                                        <div class="message">fix: Fix image scaling on services</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44c46ec</div>
+                                        <div class="message">fix: Remove any merge conflict resolution artifacts</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -697,32 +745,12 @@ Remove navbar buttons and add opacity and shadow</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">thiagomvas/Planly</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fb3a820</div>
-                                        <div class="message">feat: Unify auth set up into an extension method</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Apr 2025, 15:14:48 (timezone America/Recife) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Apr 2025, 16:08:49 (timezone America/Recife) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
