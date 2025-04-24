@@ -474,14 +474,14 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">thiagomvas/dotfiles</span>
+                                        <span class="repo">softeam-org/softools</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#927ce23</div>
-                                        <div class="message">chore: Add dotfiles setup using dotty</div>
+                                        <div class="sha">#8300d16</div>
+                                        <div class="message">feat: Adicionar banco de dados postgres para microserviços de projetos</div>
                                     </div>
                                 </div>
                             </section>
@@ -494,14 +494,14 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">thiagomvas/dotty</span>
+                                        <span class="repo">softeam-org/softools</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#02580b9</div>
-                                        <div class="message">fix: remove test path</div>
+                                        <div class="sha">#20cf531</div>
+                                        <div class="message">feat: Adicionar alocação de container postgres quando pedido</div>
                                     </div>
                                 </div>
                             </section>
@@ -514,14 +514,14 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">thiagomvas/dotty</span>
+                                        <span class="repo">softeam-org/softools</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f079e8d</div>
-                                        <div class="message">Create README.md</div>
+                                        <div class="sha">#725edbf</div>
+                                        <div class="message">chore: Adicionar api para ser inicializada via aspire</div>
                                     </div>
                                 </div>
                             </section>
@@ -534,14 +534,14 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">thiagomvas/dotty</span>
+                                        <span class="repo">softeam-org/softools</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#816e9f7</div>
-                                        <div class="message">Create LICENSE</div>
+                                        <div class="sha">#ab9a862</div>
+                                        <div class="message">feat: Adicionar servidor base para microserviços de projetos</div>
                                     </div>
                                 </div>
                             </section>
@@ -554,14 +554,14 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">thiagomvas/dotty</span>
+                                        <span class="repo">softeam-org/softools</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ae30e78</div>
-                                        <div class="message">feat: Remove git repository when running setup bootstrap</div>
+                                        <div class="sha">#2bea4b8</div>
+                                        <div class="message">feat: Add orquestrador para criação de serviços de forma padronizada</div>
                                     </div>
                                 </div>
                             </section>
@@ -571,7 +571,7 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2025, 14:10:22 (timezone America/Recife) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Apr 2025, 15:14:22 (timezone America/Recife) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
