@@ -83,7 +83,7 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2293 Commits
+                            2294 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -233,14 +233,14 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="186.12615310575242" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="186.12615310575242" y="0" width="182.0935731995661" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="368.21972630531855" y="0" width="21.25014223312191" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="389.46986853844044" y="0" width="18.836491516292412" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="408.3063600547328" y="0" width="18.62228801075257" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="426.9286480654854" y="0" width="8.063209671207897" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="434.99185773669325" y="0" width="5.944966338019833" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="440.9368240747131" y="0" width="19.06317592528687" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="185.92985032782872" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="185.92985032782872" y="0" width="182.3866744251245" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="368.3165247529532" y="0" width="21.227730219108675" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="389.54425497206194" y="0" width="18.816625121649402" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="408.36088009371133" y="0" width="18.60264753139592" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="426.96352762510725" y="0" width="8.054705597862867" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="435.0182332229701" y="0" width="5.938696324981134" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="440.95692954795123" y="0" width="19.04307045204875" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -542,6 +542,26 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#d6fba91</div>
+                                        <div class="message">feat: Add Builder Step for using builders to generate step sequences in branching workflows</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">thiagomvas/FFlow</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#4554fd1</div>
                                         <div class="message">feat: Add ForEach processor</div>
                                     </div>
@@ -608,33 +628,12 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">thiagomvas/FFlow</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7980cf2</div>
-                                        <div class="message">refactor: Remove generic from workflow and use object instead
-feat: Add workflow definition discovery</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jun 2025, 12:10:30 (timezone America/Recife) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jun 2025, 13:12:34 (timezone America/Recife) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
