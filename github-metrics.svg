@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1737" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1853" class="">
     <defs>
         <style/>
     </defs>
@@ -473,6 +473,64 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">jetsales/jetgo-front</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">CHAT-2701-datadog</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#00557ac</div>
+                                        <div class="message">feat: Adicionar atributos do usuário ao GrowthBook durante o login</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6935942</div>
+                                        <div class="message">feat(growthbook): Introduce Context Provider for initialization
+
+This commit introduces a `GrowthBookProvider` to handle the initialization and provision of the GrowthBook instance throughout the application.
+
+The new provider encapsulates the asynchronous loading of GrowthBook, ensuring that the application only renders after the instance is available. This replaces the previous imperative initialization in `index.tsx`, leading to a cleaner application bootstrap and a more idiomatic React implementation.
+
+Key changes include:
+- Creation of `GrowthBookContext.tsx`.
+- Integration of the provider in `App.tsx`.
+- Removal of initialization logic from `index.tsx`.
+- Updates to `axios` and other utils to use the new `getGrowthbookInstance` function.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a23231b</div>
+                                        <div class="message">feat: Atualizar integração com GrowthBook e otimizar configuração do Axios</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#433c31b</div>
+                                        <div class="message">feat: Adicionar suporte a URLs legadas e atualizar a configuração do RemoteConfig</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e20069</div>
+                                        <div class="message">feat: Atualizar função getBaseUrl para usar configuração remota</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#355fdf7</div>
+                                        <div class="message">feat: Atualizar configuração do GrowthBook e integrar ao aplicativo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3cf26ba</div>
+                                        <div class="message">feat: Adicionar integração com GrowthBook e utilitário para extrair domínio de URL</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf0a2ab</div>
+                                        <div class="message">feat: adicionando datadog ao front novo</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">jetsales/jetgo-front</span>
                                     </div>
@@ -711,32 +769,12 @@ Chat-2701 datadog</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jetsales/jetgo-front-legacy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">CHAT-2701-datadog</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#40c4ad9</div>
-                                        <div class="message">chore: Remove console log from updateDatadogContext</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2025, 18:09:41 (timezone America/Recife) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2025, 19:10:20 (timezone America/Recife) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
