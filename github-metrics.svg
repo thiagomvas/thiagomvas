@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1224" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1241" class="">
     <defs>
         <style/>
     </defs>
@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -536,14 +536,38 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jetsales/jetgo-admin-api</span>
+                                        <span class="repo">jetsales/jetgo-chat-interno</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">feat/chat-2895</span></div>
                                     <div class="commit">
-                                        <div class="sha">#077c946</div>
-                                        <div class="message">fix: fix kubernetes</div>
+                                        <div class="sha">#3bfe1c3</div>
+                                        <div class="message">chore: Remove repeated labels from dev patch</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">jetsales/jetgo-chat-interno</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/chat-2895</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0ba285a</div>
+                                        <div class="message">fix: Fix ingress name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20782e4</div>
+                                        <div class="message">fix: Fix ingress name</div>
                                     </div>
                                 </div>
                             </section>
@@ -562,8 +586,8 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                                 <div class="details">
                                     <div>on branch <span class="code">feat/chat-2895</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5c6a178</div>
-                                        <div class="message">fix: Remove name suffix</div>
+                                        <div class="sha">#72415b4</div>
+                                        <div class="message">fix: Fix ingress name</div>
                                     </div>
                                 </div>
                             </section>
@@ -576,14 +600,14 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jetsales/jetgo-admin-api</span>
+                                        <span class="repo">jetsales/jetgo-chat-interno</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">feat/chat-2895</span></div>
                                     <div class="commit">
-                                        <div class="sha">#eebb65a</div>
-                                        <div class="message">fix: Fix conflicting selector</div>
+                                        <div class="sha">#0157f85</div>
+                                        <div class="message">fix: add missing nameSuffix</div>
                                     </div>
                                 </div>
                             </section>
@@ -596,34 +620,14 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jetsales/jetgo-admin-api</span>
+                                        <span class="repo">jetsales/jetgo-chat-interno</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">feat/chat-2895</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7ae818a</div>
-                                        <div class="message">fix: remove conflicting name</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jetsales/jetgo-admin-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/chat-2895</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#77d072f</div>
-                                        <div class="message">fix: Use name suffix instead</div>
+                                        <div class="sha">#37daabe</div>
+                                        <div class="message">feat: Set base names to chat-interno and override on overlay</div>
                                     </div>
                                 </div>
                             </section>
@@ -633,7 +637,7 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Oct 2025, 20:10:19 (timezone America/Recife) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2025, 21:48:09 (timezone America/Recife) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
