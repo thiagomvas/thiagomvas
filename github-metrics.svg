@@ -83,7 +83,7 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3148 Commits
+                            3151 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -233,14 +233,14 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="205.55968213190127" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="205.55968213190127" y="0" width="163.79262068524122" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="369.3523028171425" y="0" width="18.65179630602619" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="388.0040991231687" y="0" width="16.53327300249609" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="404.5373721256648" y="0" width="16.420438460313374" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="420.9578105859782" y="0" width="9.69089872605682" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="430.648709312035" y="0" width="7.525954415487958" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="438.17466372752295" y="0" width="21.82533627247708" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="205.56445385640777" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="205.56445385640777" y="0" width="163.7895489501143" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="369.35400280652203" y="0" width="18.651446513845965" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="388.00544932036803" y="0" width="16.53296294069213" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="404.53841226106016" y="0" width="16.420130514586592" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="420.9585427756468" y="0" width="9.69071698481656" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="430.64925976046334" y="0" width="7.5258132751945475" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="438.1750730356579" y="0" width="21.824926964342165" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -539,7 +539,7 @@ Projects Manager at @softeam-org. Computer Science Undergrad</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Oct 2025, 21:55:32 (timezone America/Recife) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Oct 2025, 23:27:53 (timezone America/Recife) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
