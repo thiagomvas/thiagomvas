@@ -16,8 +16,8 @@ Repository[] repos = await provider.GetRepositoriesAsync(userName);
 int totalStars = repos.Sum(r => r.StargazersCount);
 int totalRepos = repos.Length;
 int totalFollowers = user.Followers;
-//int totalCommits = await provider.GetTotalCommitsAsync(userName, repos);
-int totalCommits = 2222;
+int totalCommits = await provider.GetTotalCommitsAsync(userName, repos);
+//int totalCommits = 2222;
 // Output
 
 string[] lines =
