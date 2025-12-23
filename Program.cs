@@ -23,7 +23,7 @@ int totalCommits = 2222;
 string[] lines =
 [
     "Thiago Vasconcelos ".PadRight(TextWidth, '-'),
-    Helpers.DotLine(TextWidth, ("OS", "Linux (Nobara, Ubuntu Server)")),
+    Helpers.DotLine(TextWidth, ("OS", "Nobara Linux 42, Ubuntu Server 24.02")),
     Helpers.DotLine(TextWidth, ("Uptime", Helpers.GetElapsedYMD(new DateTime(2005, 02, 24), DateTime.UtcNow))),
     "",
 
