@@ -36,7 +36,14 @@ string[] lines =
 
     Helpers.DotLine(TextWidth, ("Education", "BSc Computer Science, UFS")),
     Helpers.DotLine(TextWidth, ("Career.Interests", "DevOps Engineer, Full-Stack Developer")),
+
+    Helpers.DotLine(TextWidth, ("Hobbies", "Homelabbing (Docker, Self-hosting), Building Dev Tools, Gaming")),
     "",
+
+    "Contact Info ".PadRight(TextWidth, '-'),
+    Helpers.DotLine(TextWidth, ("Email", "thiagomvas@gmail.com")),
+    Helpers.DotLine(TextWidth, ("LinkedeIn", "thiago-m-vasconcelos")),
+    
 
     "GitHub Stats ".PadRight(TextWidth, '-'),
     Helpers.DotLine(TextWidth, ("Repos", totalRepos), ("Stars", totalStars)),
