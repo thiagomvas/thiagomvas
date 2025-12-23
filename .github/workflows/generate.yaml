@@ -30,6 +30,8 @@ jobs:
 
       - name: Run generator
         run: dotnet run
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
 
       - name: Commit & push changes
         run: |
