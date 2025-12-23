@@ -52,8 +52,12 @@
 <text x='456' y='238'><tspan class='value'></tspan></text>
 <text x='456' y='260'><tspan class='key'>Education</tspan><tspan class='sep'>:</tspan><tspan class='dots'> ...................</tspan><tspan class='value'>BSc Computer Science, UFS</tspan></text>
 <text x='456' y='282'><tspan class='key'>Career.Interests</tspan><tspan class='sep'>:</tspan><tspan class='dots'> </tspan><tspan class='value'>DevOps Engineer, Full-Stack Developer</tspan></text>
-<text x='456' y='304'><tspan class='value'></tspan></text>
-<text x='456' y='326'><tspan class='value'>GitHub Stats ------------------------------------------</tspan></text>
-<text x='456' y='348'><tspan class='key'>Repos</tspan><tspan class='sep'>:</tspan><tspan class='dots'> .................</tspan><tspan class='value'>66</tspan><tspan class='sep'> | </tspan><tspan class='key'>Stars</tspan><tspan class='sep'>:</tspan><tspan class='dots'> .................</tspan><tspan class='value'>45</tspan></text>
-<text x='456' y='370'><tspan class='key'>Commits</tspan><tspan class='sep'>:</tspan><tspan class='dots'> .............</tspan><tspan class='value'>2222</tspan><tspan class='sep'> | </tspan><tspan class='key'>Followers</tspan><tspan class='sep'>:</tspan><tspan class='dots'> .............</tspan><tspan class='value'>25</tspan></text>
+<text x='456' y='304'><tspan class='key'>Hobbies</tspan><tspan class='sep'>:</tspan><tspan class='dots'> </tspan><tspan class='value'>Homelabbing (Docker, Self-hosting), Building D</tspan></text>
+<text x='456' y='326'><tspan class='value'></tspan></text>
+<text x='456' y='348'><tspan class='value'>Contact Info ------------------------------------------</tspan></text>
+<text x='456' y='370'><tspan class='key'>Email</tspan><tspan class='sep'>:</tspan><tspan class='dots'> ............................</tspan><tspan class='value'>thiagomvas@gmail.com</tspan></text>
+<text x='456' y='392'><tspan class='key'>LinkedeIn</tspan><tspan class='sep'>:</tspan><tspan class='dots'> ........................</tspan><tspan class='value'>thiago-m-vasconcelos</tspan></text>
+<text x='456' y='414'><tspan class='value'>GitHub Stats ------------------------------------------</tspan></text>
+<text x='456' y='436'><tspan class='key'>Repos</tspan><tspan class='sep'>:</tspan><tspan class='dots'> .................</tspan><tspan class='value'>66</tspan><tspan class='sep'> | </tspan><tspan class='key'>Stars</tspan><tspan class='sep'>:</tspan><tspan class='dots'> .................</tspan><tspan class='value'>45</tspan></text>
+<text x='456' y='458'><tspan class='key'>Commits</tspan><tspan class='sep'>:</tspan><tspan class='dots'> .............</tspan><tspan class='value'>2127</tspan><tspan class='sep'> | </tspan><tspan class='key'>Followers</tspan><tspan class='sep'>:</tspan><tspan class='dots'> .............</tspan><tspan class='value'>25</tspan></text>
 </svg>
