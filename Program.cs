@@ -42,7 +42,7 @@ string[] lines =
 
     "Contact Info ".PadRight(TextWidth, '-'),
     Helpers.DotLine(TextWidth, ("Email", "thiagomvas@gmail.com")),
-    Helpers.DotLine(TextWidth, ("LinkedeIn", "thiago-m-vasconcelos")),
+    Helpers.DotLine(TextWidth, ("LinkedIn", "thiago-m-vasconcelos")),
     
 
     "GitHub Stats ".PadRight(TextWidth, '-'),
